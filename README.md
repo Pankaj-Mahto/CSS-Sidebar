@@ -8,4 +8,4 @@ HTML Structure: A hidden checkbox input to toggle the sidebar, a label as the to
 
 CSS Styling: Stylish sidebar using CSS for position changes based on the checkbox state.
 
-👉 : https://sidebar-css.netlify.app</p>
+👉 : https://sidebar-css.netlify.app</p> 
